@@ -71,4 +71,4 @@ int main() {
     printf("Pontos: %d\n", pontos2);
 
     return 0;
-}
+    
